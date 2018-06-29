@@ -1,0 +1,24 @@
+Data to collect
+
+DHT22
+    Humidity (int)
+    Temperature (int)
+BMP180
+    Temperature (float)
+    Pressure (float)
+    Altitude (float)
+GP2(A)
+    DustDensity (float)
+    *AQI (float)
+    *GradeInfo (float)
+PMS7003(B)
+    PM1.0 (uint16_t)
+    PM2.5 (uint16_t)
+    PM10 (uint16_t)
+MQ2
+	Smoke/Gas(Analog) (float)
+PhotonSensor
+	LightDensity(Analog) (float)
+
+Arduino
+	Time
